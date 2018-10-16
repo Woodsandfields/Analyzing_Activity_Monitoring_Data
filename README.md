@@ -1,3 +1,6 @@
+*This activity monitoring data analysis was done for the course "Reproducible Research in R" by Professor Peng from the Johns-Hopkins-University. The presentation below is his. The files submitted as my assignment are in the repository".*
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
